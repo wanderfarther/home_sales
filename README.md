@@ -1,9 +1,10 @@
 # home_sales
 
-## Analyzing homes sales data using SparkSQL and PySpark
+## Analyzing home sales data using SparkSQL and PySpark
 I used SarkSQL and PySpark to analyze the key metrics for home sales data. I used Spark to create temporary views, partition, and cache the data.
 
 I answered the following questions:
+
 1- What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
 2- What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
